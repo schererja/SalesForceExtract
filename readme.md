@@ -1,6 +1,6 @@
 # Sales Force Data Extract
 
-This application takes SOQL Query and runs it against the rest api of Sales Force
+This application takes SOQL Query and runs it against the rest api of Sales Force.  The process will then extract the JSON output, convert it to XML to send to a custom Stored Procedure on SQL Server to parse as needed.
 
 ## Getting Started
 
