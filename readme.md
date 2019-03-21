@@ -70,7 +70,7 @@ We use [SemVer](http://semver.org/) for versioning.
 
 ## Authors
 
-* **Jason Scherer** - *Initial work* - [Jason Scherer](schereja@gmail.com)
+* **Jason Scherer** - *Initial work* - [Jason Scherer](https://github.com/schererja/)
 
 
 ## License
